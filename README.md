@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif" alt="Cybersecurity Banner" width="100%" />
 </p>
 
-<h1 align="center">Hello, I'm Punsisini 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com">
