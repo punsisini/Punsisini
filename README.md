@@ -20,13 +20,13 @@
 
 I’m a Master of Information Technology graduate with a strong interest in cybersecurity and hands-on experience in network security, vulnerability assessment, and log analysis.
 
-I enjoy working on practical labs and real-world scenarios where I can analyse network traffic, identify vulnerabilities, and troubleshoot security issues. My goal is to start my career in a cybersecurity or IT support role and grow into a Security Operations Center (SOC) environment.
+I enjoy working on practical labs and real-world scenarios where I can analyse network traffic, identify vulnerabilities, and troubleshoot security issues. My goal is to start my career in a cybersecurity or IT support role and grow into a Security Operations Center (SOC) environment. I focus on understanding how real-world threats are detected and analysed using practical tools and techniques.
 
 ---
 
 ## 🎯 Objective
 
-To secure an entry-level role in cybersecurity or IT support, where I can apply my technical skills, continue learning, and contribute to maintaining secure and reliable systems.
+To begin my career as a SOC Analyst or in a cybersecurity-focused entry-level role, where I can build a strong technical foundation in threat detection and security monitoring, with a long-term goal of transitioning into Governance, Risk, and Compliance (GRC).
 
 ---
 
@@ -34,7 +34,7 @@ To secure an entry-level role in cybersecurity or IT support, where I can apply 
 
 | Skill | Project |
 |------|--------|
-| Network Traffic Analysis (Wireshark) | [View Project](#) |
+| Network Traffic Analysis (Wireshark) | [View Project](https://github.com/YOUR-USERNAME/network-traffic-analysis-wireshark) |
 | Vulnerability Scanning (Nessus) | [View Project](#) |
 | SIEM Log Analysis (Splunk) | [View Project](#) |
 | Network Scanning & Enumeration (Nmap) | [View Project](#) |
