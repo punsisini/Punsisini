@@ -90,5 +90,5 @@ VirtualBox | VMware
 ---
 
 ## 🤝 Connect with Me
-📧 your-email@example.com  
-🔗 https://linkedin.com/in/YOUR-LINK
+📧 uma.g.adikari@gmail.com  
+🔗 https://linkedin.com/in/uma-adikari
