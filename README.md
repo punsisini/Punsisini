@@ -2,66 +2,93 @@
   <img src="https://i.pinimg.com/originals/6e/36/41/6e3641df4d4ff70e70554064ff9739a3.gif" alt="Cybersecurity Banner" width="100%" />
 </p>
 
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Hi 👋 I'm Uma</h1>
 
 <p align="center">
-  <a href="https://linkedin.com">
+  🔐 Cybersecurity Enthusiast | MIT Graduate | Aspiring SOC Analyst  
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+---
 
-I have some experience in IT, which complements my passion for cybersecurity with a profound interest in technology and a dedication to solving complex problems.
+## 🚀 About Me
 
-## Objective
+I’m a Master of Information Technology graduate with a strong interest in cybersecurity and hands-on experience in network security, vulnerability assessment, and log analysis.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I enjoy working on practical labs and real-world scenarios where I can analyse network traffic, identify vulnerabilities, and troubleshoot security issues. My goal is to start my career in a cybersecurity or IT support role and grow into a Security Operations Center (SOC) environment.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+---
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+## 🎯 Objective
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+To secure an entry-level role in cybersecurity or IT support, where I can apply my technical skills, continue learning, and contribute to maintaining secure and reliable systems.
 
-### Network
+---
+
+## 🛠️ Technical Skills
+
+| Skill | Project |
+|------|--------|
+| Network Traffic Analysis (Wireshark) | [View Project](#) |
+| Vulnerability Scanning (Nessus) | [View Project](#) |
+| SIEM Log Analysis (Splunk) | [View Project](#) |
+| Network Scanning & Enumeration (Nmap) | [View Project](#) |
+
+---
+
+## 🧰 Tools & Technologies
+
+### 🔹 Security Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00C176?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+### 🔹 Operating Systems
+Windows | Linux (Ubuntu, Kali Linux)
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+### 🔹 Networking
+TCP/IP | DNS | HTTP | DHCP | ACLs | Firewall Configuration
+
+### 🔹 Virtualization
+VirtualBox | VMware
+
+---
+
+## 📂 Projects
+
+🔍 **Network Traffic Analysis using Wireshark**  
+- Captured and analysed live network traffic  
+- Applied filters to identify protocols and anomalies  
+
+🛡️ **Vulnerability Scanning with Nessus**  
+- Performed scans on virtual machines  
+- Identified vulnerabilities and recommended fixes  
+
+📊 **SIEM Log Analysis with Splunk**  
+- Analysed logs using SPL queries  
+- Detected suspicious activities like failed logins  
+
+🌐 **Network Scanning using Nmap**  
+- Conducted port scanning and service enumeration  
+- Identified open ports and potential risks  
+
+---
+
+## 📈 Currently Learning
+- Threat detection and incident response basics  
+- Improving hands-on lab experience (TryHackMe)  
+- Strengthening troubleshooting skills  
+
+---
+
+## 🤝 Connect with Me
+📧 your-email@example.com  
+🔗 https://linkedin.com/in/YOUR-LINK
