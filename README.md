@@ -34,7 +34,7 @@ To begin my career as a SOC Analyst or in a cybersecurity-focused entry-level ro
 
 | Skill | Project |
 |------|--------|
-| Network Traffic Analysis (Wireshark) | [View Project](https://github.com/YOUR-USERNAME/network-traffic-analysis-wireshark) |
+| Network Traffic Analysis (Wireshark) | [View Project](https://github.com/punsisini/Network-Traffic-Analysis-Using-Wireshark) |
 | Vulnerability Scanning (Nessus) | [View Project](#) |
 | SIEM Log Analysis (Splunk) | [View Project](#) |
 | Network Scanning & Enumeration (Nmap) | [View Project](#) |
