@@ -36,7 +36,7 @@ To begin my career as a SOC Analyst or in a cybersecurity-focused entry-level ro
 |------|--------|
 | Network Traffic Analysis (Wireshark) | [View Project](https://github.com/punsisini/Network-Traffic-Analysis-Using-Wireshark) |
 | SIEM Log Analysis (Splunk) | [View Project](https://github.com/punsisini/Web-Traffic-Analysis-Threat-Detection-using-Splunk) |
-| Vulnerability Scanning (Nessus) | [View Project](#) |
+| Vulnerability Scanning (Nessus) | [View Project](https://github.com/punsisini/Vulnerability-Assessment-using-Nessus/tree/main) |
 | Network Scanning & Enumeration (Nmap) | [View Project](#) |
 
 ---
